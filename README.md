@@ -1,0 +1,2 @@
+# bashmin
+Bash minify
